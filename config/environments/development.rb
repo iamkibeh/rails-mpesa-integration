@@ -67,13 +67,8 @@ Rails.application.configure do
 
   # Uncomment if you wish to allow Action Cable access from any origin.
   # config.action_cable.disable_request_forgery_protection = true
+
+  # enable dynamic url generation in development
+  # config.hosts << /[a-z0-9]+\.ngrok-free.app/
+  config.hosts << "a94c-41-90-35-48.ngrok-free.app"
 end
-
-# enable dynamic url generation in development
-
-
-config.host<</[a-z0-9]+\.ngrok\.io/
-
-
-
-

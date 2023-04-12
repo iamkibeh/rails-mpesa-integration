@@ -32,4 +32,4 @@
 
 # Ignore .env file containing credentials.
 .env
-/local_env.yml
+/config/local_env.yml
