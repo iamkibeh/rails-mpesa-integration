@@ -65,3 +65,4 @@ end
 gem 'rack-cors'
 gem 'rest-client', '~> 2.0'
 gem 'byebug', platforms: %i[ mri mingw x64_mingw ]
+gem 'faraday'

@@ -70,5 +70,5 @@ Rails.application.configure do
 
   # enable dynamic url generation in development
   # config.hosts << /[a-z0-9]+\.ngrok-free.app/
-  config.hosts << "a94c-41-90-35-48.ngrok-free.app"
+  config.hosts << "3f3b-105-160-88-245.ngrok-free.app"
 end
